@@ -1,7 +1,7 @@
 package basicQuestions;
 import java.util.Scanner;
 //Create simpleInterest class to calculate simple interest
-public class simpleInterest {
+public class SimpleInterest {
     public static void main(String[] args){
         //Create object for Scanner to take input
         Scanner sc = new Scanner(System.in);

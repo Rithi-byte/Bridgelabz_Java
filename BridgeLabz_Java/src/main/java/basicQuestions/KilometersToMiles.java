@@ -2,7 +2,7 @@ package basicQuestions;
 import java.util.Scanner;
 
 //Created kilometersToMiles Class to convert kilometers into miles
-public class kilometersToMiles {
+public class KilometersToMiles {
     public static void main(String[] args) {
         //Create object for Scanner to take input
         Scanner sc = new Scanner(System.in);

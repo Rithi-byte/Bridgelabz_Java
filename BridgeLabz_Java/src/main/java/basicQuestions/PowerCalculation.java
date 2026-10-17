@@ -2,7 +2,7 @@ package basicQuestions;
 import java.util.Scanner;
 
 //Created powerCalculation Class to calculate the power of a number
-public class powerCalculation {
+public class PowerCalculation {
     public static void main(String[] args) {
         //Create object for Scanner to take input
         Scanner sc = new Scanner(System.in);

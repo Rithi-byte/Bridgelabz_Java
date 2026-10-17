@@ -2,7 +2,7 @@ package basicQuestions;
 import java.util.Scanner;
 
 //Created perimeterOfRectangle Class to calculate the perimeter of a rectangle
-public class perimeterOfRectangle {
+public class PerimeterOfRectangle {
     public static void main(String[] args) {
         //Create object for Scanner to take input
         Scanner sc = new Scanner(System.in);

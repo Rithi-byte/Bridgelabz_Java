@@ -1,7 +1,7 @@
 package basicQuestions;
 import java.util.Scanner;
 //Created addTwoNumbers Class to add two numbers
-public class addTwoNumbers {
+public class AddTwoNumbers {
     public static void main(String[] args){
         //Create object for Scanner to take input
         Scanner sc=new Scanner(System.in);
