@@ -1,2 +1,56 @@
 # Bridgelabz_Java
-Practice problems for the BridgeLabz training program.
+
+Java assignments and practice problems completed as part of the
+BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
+
+## Repository Structure
+- `main` : this README with daily task updates
+- `develop` : empty Bridgelabz_Java project skeleton
+- `feature/*` : week-wise topic branches containing the solutions
+
+## Daily Task Update
+
+### Day 01 — 15 Oct 2026
+**What I have done**
+- Learned Git basics.
+- Practiced repository setup and Git commands.
+
+**What I will do**
+- Learn Java fundamentals.
+- Practice Java programming problems.
+
+**Issues faced**
+- None
+
+### Day 02 — 16 Oct 2026
+**What I have done**
+- Learned Java fundamentals.
+- Practiced basic Java programming concepts.
+
+**What I will do**
+- Complete Java Programming Elements Level 1 and Level 2 programs.
+- Practice the assigned problems.
+
+**Issues faced**
+- None
+
+### Day 03 — 17 Oct 2026
+**What I have done**
+- Practiced Java Programming Elements.
+- Worked on Level 1 and Level 2 programs.
+
+**Topics covered**
+- Java Comments
+- Java Basic Data Types
+- Java Variables
+- Arithmetic Operators
+- Operator Precedence
+- Type Conversion
+- Taking User Input in Java Programs
+
+**What I will do**
+- Complete the remaining Level 1 and Level 2 programs.
+- Test the solutions and push the completed code to GitHub.
+
+**Issues faced**
+- None
