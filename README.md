@@ -13,12 +13,13 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 ### Day 05 — 19 Oct 2026
 
 **What I have done**
-- Learned Java methods concepts, including recursion, static methods, and method reusability.
-- Practiced Java standard library and `Math` class methods.
+- Learned Java Methods, including user-defined methods, method reusability, recursion, and static methods.
+- Practiced Java standard library methods and the `java.lang.Math` class.
+- Practiced Java Arrays and Multidimensional Arrays, including array creation, accessing, modification, loops, and the `length` property.
+- Learned 2D arrays, matrix operations, `System.err`, and `System.exit()`.
 
 **What I will do**
-- Practice Level 1, Level 2, and Level 3 Java Methods programs.
-- Test programs and push code to GitHub.
+- Complete Level 1, Level 2, and Level 3 Java Methods and Array Lab Practices.
 
 **Issues faced**
 - None
