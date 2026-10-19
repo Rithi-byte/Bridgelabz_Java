@@ -10,6 +10,20 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 05 — 19 Oct 2026
+
+**What I have done**
+- Learned Java methods concepts, including recursion, static methods, and method reusability.
+- Practiced Java standard library and `Math` class methods.
+
+**What I will do**
+- Practice Level 1, Level 2, and Level 3 Java Methods programs.
+- Test programs and push code to GitHub.
+
+**Issues faced**
+- None
+
+---
 ### Day 04 — 18 Oct 2026
 
 **What I have done**
