@@ -13,13 +13,13 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 ### Day 06 — 21 Oct 2026
 
 **What I have done**
-- Practiced Java modular programming using user-defined methods.
-- Completed programs for number guessing, maximum of three numbers, and prime number checking.
-- Practiced Fibonacci sequence generation, palindrome checking, and recursive factorial calculation.
-- Implemented GCD and LCM, temperature conversion, and a basic calculator.
+- Practiced Java Strings Level 1, Level 2, and Level 3 lab exercises.
+- Learned string manipulation, character operations, substring handling, and exception handling.
+- Practiced Java Methods and modular programming through number guessing, prime checking, Fibonacci, palindrome, factorial, GCD, and LCM programs.
+- Implemented temperature conversion and basic calculator programs using user-defined methods.
 
 **What I will do**
-- Continue practicing Java programming concepts and problem-solving.
+- Continue practicing Java Strings, Methods, and problem-solving exercises.
 
 **Issues faced**
 - None
