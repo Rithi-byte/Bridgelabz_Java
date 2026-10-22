@@ -10,6 +10,24 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 07 — 22 Oct 2026
+
+**What I have done**
+- Practiced Java Classes and Objects through Level 1 and Level 2 exercises.
+- Implemented programs for student grading, ATM transactions, palindrome checking, movie ticket booking, and shopping cart management.
+- Learned Java constructors and access modifiers, including `public`, `protected`, default, and `private`.
+- Understood constructor accessibility, private constructors, utility classes, and Singleton concepts.
+- Practiced writing Java programs using user input, Javadoc comments, and single-line comments.
+
+**What I will do**
+- Continue practicing Java OOP concepts and DSA problems.
+- Improve technical explanations of Java concepts.
+
+**Issues faced**
+- None
+  
+---
+
 ### Day 06 — 21 Oct 2026
 
 **What I have done**
