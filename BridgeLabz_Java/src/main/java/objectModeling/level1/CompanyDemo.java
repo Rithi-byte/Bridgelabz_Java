@@ -1,78 +1,143 @@
+
 package objectModeling.level1;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Employee {
+/**
+ * Represents an employee working in a company.
+ */
+class CompanyStaff {
     String name;
 
-    Employee(String name) {
+    /**
+     * Initializes an employee with the given name.
+     *
+     * @param name the employee's name
+     */
+    CompanyStaff(String name) {
         this.name = name;
     }
 }
 
-class Department {
+/**
+ * Represents a department that manages employees.
+ */
+class CompanyDivision {
     String name;
-    ArrayList<Employee> employees = new ArrayList<>();
+    ArrayList<CompanyStaff> employees = new ArrayList<>();
 
-    Department(String name) {
+    /**
+     * Initializes a department with the given name.
+     *
+     * @param name the department's name
+     */
+    CompanyDivision(String name) {
         this.name = name;
     }
 
+    /**
+     * Adds a new employee to the department.
+     *
+     * @param employeeName the name of the employee to add
+     */
     void addEmployee(String employeeName) {
-        employees.add(new Employee(employeeName));
+        employees.add(new CompanyStaff(employeeName));
     }
 
+    /**
+     * Displays the department name and its employees.
+     */
     void display() {
         System.out.println("Department: " + name);
-        for (Employee e : employees) {
+
+        // Display every employee in the department.
+        for (CompanyStaff e : employees) {
             System.out.println("Employee: " + e.name);
         }
     }
 }
 
-class Company {
+/**
+ * Represents a company that manages multiple departments.
+ */
+class BusinessOrganization {
     String name;
-    ArrayList<Department> departments = new ArrayList<>();
+    ArrayList<CompanyDivision> departments = new ArrayList<>();
 
-    Company(String name) {
+    /**
+     * Initializes a company with the given name.
+     *
+     * @param name the company's name
+     */
+    BusinessOrganization(String name) {
         this.name = name;
     }
 
+    /**
+     * Creates a department, adds an employee,
+     * and registers the department with the company.
+     *
+     * @param deptName the department's name
+     * @param employeeName the employee's name
+     */
     void addDepartment(String deptName, String employeeName) {
-        Department d = new Department(deptName);
+        // Create a department and add an employee.
+        CompanyDivision d = new CompanyDivision(deptName);
         d.addEmployee(employeeName);
+
+        // Add the department to the company.
         departments.add(d);
     }
 
+    /**
+     * Displays the company name and its departments.
+     */
     void display() {
         System.out.println("\nCompany: " + name);
-        for (Department d : departments) {
+
+        // Display each department and its employees.
+        for (CompanyDivision d : departments) {
             d.display();
         }
     }
 }
 
+/**
+ * Demonstrates the relationship between a company,
+ * its departments, and its employees.
+ */
 public class CompanyDemo {
+
+    /**
+     * Executes the company demonstration.
+     *
+     * @param args command-line arguments
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        // Read the company name.
         System.out.print("Enter company name: ");
-        Company company = new Company(sc.nextLine());
+        BusinessOrganization company =
+                new BusinessOrganization(sc.nextLine());
 
+        // Read the department name.
         System.out.print("Enter department name: ");
         String dept = sc.nextLine();
 
+        // Read the employee name.
         System.out.print("Enter employee name: ");
         String emp = sc.nextLine();
 
+        // Add the department and employee, then display the details.
         company.addDepartment(dept, emp);
         company.display();
 
+        // Remove the reference held by this variable.
         company = null;
         System.out.println("Company reference removed.");
 
         sc.close();
     }
 }
-
