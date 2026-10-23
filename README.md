@@ -10,6 +10,23 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 08 — 23 Oct 2026
+
+**What I have done**
+- Reviewed Java OOP concepts for the upcoming technical review.
+- Studied classes, objects, constructors, encapsulation, inheritance, polymorphism, abstraction, and interfaces.
+- Practiced object relationships: association, aggregation, and composition using real-world Java programs.
+- Implemented programs using user input and multiple interacting classes.
+
+**What I will do**
+- Revise OOP theory, key differences, and Java implementation rules.
+- Practice coding problems and prepare for the technical review on 26 Oct 2026.
+
+**Issues faced**
+- Duplicate class errors while implementing multiple Java programs in the same package.
+
+---
+
 ### Day 07 — 22 Oct 2026
 
 **What I have done**
