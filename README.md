@@ -10,6 +10,22 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+## Day 09 — 24 Oct 2026
+
+**What I have done**
+- Completed all Java OOP theory concepts.
+- Studied Interfaces and Abstract Classes.
+- Learned Aggregation and Association relationships between classes.
+
+**What I will do**
+- Complete all Encapsulation questions posted today.
+- Practice related Java lab exercises.
+
+**Issues faced**
+- None.
+
+---
+
 ### Day 08 — 23 Oct 2026
 
 **What I have done**
