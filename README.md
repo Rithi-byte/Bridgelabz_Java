@@ -10,6 +10,20 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+## Day 10 -26 Oct 2026
+
+**What I have done**
+-Linked List operations including addition,deletion and updation
+-Review OOPs 
+
+**What I will do**
+- Complete all Encapsulation questions posted today.
+- Prepare for queues
+
+**Issues faced**
+- None.
+---
+
 ## Day 09 — 24 Oct 2026
 
 **What I have done**
