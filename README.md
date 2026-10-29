@@ -10,6 +10,59 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+## Day 13 — 29 Oct 2026
+
+**What I have done**
+- Completed sorting and searching programming questions.
+- Practiced Linear Search and Binary Search.
+- Completed File I/O questions using FileReader, InputStreamReader, and BufferedReader.
+- Practiced StringBuilder and StringBuffer questions.
+- Pushed the completed work to the feature branch.
+
+**What I will do**
+- Continue practicing Data Structures and Algorithms problems.
+- Complete the pending DSA practice sheet.
+- Prepare for the upcoming DSA review.
+
+**Issues faced**
+- None.
+
+---
+
+## Day 12 — 28 Oct 2026
+
+**What I have done**
+- Studied sorting algorithms, including Bubble Sort, Selection Sort, and Insertion Sort.
+- Practiced implementing sorting algorithms in Java.
+- Learned about stable and unstable sorting algorithms.
+
+**What I will do**
+- Practice sorting algorithm problems.
+- Learn Linear Search and Binary Search.
+- Complete pending Data Structures assignments.
+
+**Issues faced**
+- None.
+
+---
+
+## Day 11 — 27 Oct 2026
+
+**What I have done**
+- Completed HashMap-related programming questions.
+- Created a separate feature branch for Data Structures.
+- Practiced Java data structure concepts.
+
+**What I will do**
+- Practice sorting and searching algorithms.
+- Continue solving Data Structures problems.
+
+**Issues faced**
+- None.
+
+---
+
+
 ## Day 10 -26 Oct 2026
 
 **What I have done**
