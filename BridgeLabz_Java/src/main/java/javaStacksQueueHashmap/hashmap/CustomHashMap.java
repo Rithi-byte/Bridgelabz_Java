@@ -1,4 +1,4 @@
-package javaStacksQueueHashmap;
+package javaStacksQueueHashmap.hashmap;
 import java.util.Scanner;
 /**
  * Class Name: CustomHashMap

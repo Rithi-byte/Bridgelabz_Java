@@ -1,4 +1,4 @@
-package javaStacksQueueHashmap;
+package javaStacksQueueHashmap.hashmap;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Arrays;
