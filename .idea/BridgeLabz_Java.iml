@@ -4,6 +4,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" scope="TEST" name="junit.jupiter" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="junit.jupiter" level="project" />
   </component>
 </module>
