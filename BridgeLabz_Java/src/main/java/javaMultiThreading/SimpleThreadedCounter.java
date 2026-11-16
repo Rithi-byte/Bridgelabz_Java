@@ -9,7 +9,6 @@ import java.util.Scanner;
  * that numbers are printed in the correct sequential order using
  * thread synchronization.
  *
- * @author Student
  */
 class SharedCounter {
 
