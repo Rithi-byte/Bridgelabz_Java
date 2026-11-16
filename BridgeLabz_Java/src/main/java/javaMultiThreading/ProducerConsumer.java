@@ -13,7 +13,6 @@ import java.util.Queue;
  *
  * Synchronization must be used to prevent race conditions.
  *
- * @author Student
  */
 class SharedResource {
 
